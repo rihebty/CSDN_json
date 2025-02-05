@@ -1,0 +1,62 @@
+[
+    {
+        "name": "todo6-1（在线预览，无需下载）",
+        "link": "https://apic.todo6.com/app/operate/csdn/read?url=[]&deviceCode=19a2d9737c8702464c4eb28284b8203d&code=bilivip3466tDSU9&encode=&type=web&wrap=1&fix=proxy&proxy=",
+        "method": "GET",
+        "data": null,
+        "type": "html",
+        "code": 1000,
+        "msg": "message",
+        "content": "data.content",
+        "status": 1
+    },
+    {
+        "name": "todo6-2（在线预览，无需下载）",
+        "link": "https://apic.todo6.com/app/operate/csdn/read?url=[]&deviceCode=52f978a320853d2c9b8910c7be3e0a7f&code=bilivip7579b3ao1&encode=&type=web&wrap=1&fix=proxy&proxy=",
+        "method": "GET",
+        "data": null,
+        "type": "html",
+        "code": 1000,
+        "msg": "message",
+        "content": "data.content",
+        "status": 1
+    },
+    {
+        "name": "todo6-3（在线预览，无需下载）",
+        "link": "https://apic.todo6.com/app/operate/csdn/read?url=[]&deviceCode=52f978a320853d2c9b8910c7be3e0a7f&code=bilivip1317LuXRZ&encode=&type=web&wrap=1&fix=proxy&proxy=",
+        "method": "GET",
+        "data": null,
+        "type": "html",
+        "code": 1000,
+        "msg": "message",
+        "content": "data.content",
+        "status": 1
+    },
+    {
+        "name": "todo6-4（在线预览，无需下载）",
+        "link": "https://apic.todo6.com/app/operate/csdn/read?url=[]&deviceCode=52f978a320853d2c9b8910c7be3e0a7f&code=bilivip7003uW57j&encode=&type=web&wrap=1&fix=proxy&proxy=",
+        "method": "GET",
+        "data": null,
+        "type": "html",
+        "code": 1000,
+        "msg": "message",
+        "content": "data.content",
+        "status": 1
+    },
+    {
+        "name": "cuckooing（离线查看，需要下载，解析文章以html格式导出）",
+        "link": "https://mark.cuckooing.cn/api/api/user/purchasePaperPlus",
+        "method": "POST",
+        "data": {
+            "email": "donlen@88.com",
+            "url": "[]",
+            "useNum": 1,
+            "key": null
+        },
+        "type": "link",
+        "code": 200,
+        "msg": "message",
+        "content": "data",
+        "status": 1
+    }
+]
